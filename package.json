@@ -1,0 +1,16 @@
+{
+  "name": "ms-authetication",
+  "version": "1.0.0",
+  "description": "microservice create authentication",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "build": "tsc -p ."
+  },
+  "author": "DJ",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.4"
+  }
+}
